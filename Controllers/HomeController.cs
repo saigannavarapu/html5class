@@ -26,7 +26,7 @@ namespace saig.Controllers
         {
             ViewData["Message"] = "Your contact page.";
 
-            ViewBag.MyTime = DateTime.Now;=Page 
+            ViewBag.MyTime = DateTime.Now;
 
             return View();
         }
