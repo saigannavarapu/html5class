@@ -1,0 +1,10 @@
+/Users/saig/test/saig/bin/Debug/netcoreapp2.0/saig.deps.json
+/Users/saig/test/saig/bin/Debug/netcoreapp2.0/saig.runtimeconfig.json
+/Users/saig/test/saig/bin/Debug/netcoreapp2.0/saig.runtimeconfig.dev.json
+/Users/saig/test/saig/bin/Debug/netcoreapp2.0/saig.dll
+/Users/saig/test/saig/bin/Debug/netcoreapp2.0/saig.pdb
+/Users/saig/test/saig/obj/Debug/netcoreapp2.0/saig.csproj.CoreCompileInputs.cache
+/Users/saig/test/saig/obj/Debug/netcoreapp2.0/saig.AssemblyInfoInputs.cache
+/Users/saig/test/saig/obj/Debug/netcoreapp2.0/saig.AssemblyInfo.cs
+/Users/saig/test/saig/obj/Debug/netcoreapp2.0/saig.dll
+/Users/saig/test/saig/obj/Debug/netcoreapp2.0/saig.pdb
